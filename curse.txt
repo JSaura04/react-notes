@@ -1,5 +1,3 @@
-4.   00:40:40 props📧 (*defaultProps are now deprecated in React 19+ )
-5.   00:52:49 conditional rendering ❓
 6.   01:03:04 render lists 📃
 7.   01:29:43 click events 👆
 8.   01:42:04 useState() hook 🎣

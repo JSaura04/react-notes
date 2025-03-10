@@ -8,7 +8,6 @@ function blogs() {
 
   return (
     <>
-    
     <div>
       <h1>Blogs</h1>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam earum minus beatae ipsam repudiandae nihil dolor et dolorum debitis obcaecati magnam ratione, alias veniam libero sapiente, assumenda dolores harum amet.</p>
