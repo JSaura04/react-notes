@@ -1,4 +1,3 @@
-9.   01:58:36 onChange event handler 🚦
 10. 02:13:16 color picker app 🖌
 11. 02:23:31 updater functions 🔄
 12. 02:30:45 update OBJECTS in state 🚗
